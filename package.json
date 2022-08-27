@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/abdouAoufi/node-mysql#readme",
   "dependencies": {
-    "express": "^4.18.1"
+    "express": "^4.18.1",
+    "mysql2": "^2.3.3"
   }
 }
