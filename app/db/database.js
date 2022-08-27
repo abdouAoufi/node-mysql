@@ -7,4 +7,6 @@ const connection = mysql.createConnection({
   password: "12345678",
 });
 
+console.log(connection);
+
 module.exports = connection;
